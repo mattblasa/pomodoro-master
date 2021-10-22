@@ -1,2 +1,2 @@
 # Pomodoro
- Non-GUI Pomodoro Timer
+Simple non-GUI pomodoro timer. 
